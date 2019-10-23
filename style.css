@@ -14,3 +14,10 @@ nav {
   display: block;
   text-align: center;
 }
+  #panelpic1{
+            content: url(shaneraz.jpg);
+            float: left;
+            width: 250px;
+            height: 150px;
+            vertical-align: middle;               
+           }
